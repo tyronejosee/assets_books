@@ -1,0 +1,25 @@
+7614a91 | Tyrone Jose | 2026-02-05 18:27:04 -0300 | chore: add books - 05-02-2026/5
+7318e87 | Tyrone Jose | 2026-02-05 18:05:21 -0300 | chore: add books - 05-02-2026/4
+33e93a9 | Tyrone Jose | 2026-02-05 17:58:46 -0300 | chore: add books - 05-02-2026/3
+8de9d17 | Tyrone Jose | 2026-02-05 17:37:18 -0300 | chore: add books - 05-02-2026/2
+fd5ee02 | Tyrone Jose | 2026-02-05 17:24:11 -0300 | chore: add books - 05-02-2026/1
+f66d7d7 | Tyrone Jose | 2025-09-05 20:43:12 -0400 | chore: add books - 05-09-2025/2
+e776ae4 | Tyrone Jose | 2025-09-05 20:38:59 -0400 | chore: add books - 05-09-2025/1
+c37f29b | tyronejose | 2025-07-12 21:57:18 -0400 | chore: add books - 12-07-2025/3
+0bdfa5e | tyronejose | 2025-07-12 21:50:54 -0400 | chore: add books - 12-07-2025/2
+4e24f13 | tyronejose | 2025-07-12 21:39:21 -0400 | chore: add books - 12/07/2025
+0ab3082 | tyronejose | 2025-07-10 20:16:05 -0400 | chore: add books - 10-07-2025
+0ffbb23 | tyronejose | 2025-07-05 18:25:40 -0400 | chore: add new 9 books - 05-07-2025/2
+0412437 | tyronejose | 2025-07-05 18:11:28 -0400 | chore: add new 10 books - 05-07-2025
+8c8feba | tyronejose | 2025-07-04 21:44:26 -0400 | chore: add new 10 books - 04-07-2025/3
+f86f0e7 | tyronejose | 2025-07-04 21:37:32 -0400 | chore: add new 9 books - 04-07-2025/2
+a132fdb | tyronejose | 2025-07-04 21:34:39 -0400 | chore: add new 9 books - 04-07-2025
+f2b9a3c | tyronejose | 2025-07-02 22:51:19 -0400 | chore: add new 10 books - 02-07-2025
+a189b32 | tyronejose | 2025-06-30 00:01:02 -0400 | Merge branch 'main' of github.com:tyronejosee/assets_books
+2498dab | tyronejose | 2025-06-30 00:00:41 -0400 | chore: add 12 new books
+764dd1b | tyronejose | 2025-06-14 14:46:23 -0400 | chore: add 10 new books
+82044f6 | tyronejose | 2025-06-14 14:44:38 -0400 | chore: add 10 new books
+05dac11 | tyronejose | 2025-06-12 20:30:28 -0400 | chore: add 20 books books
+4459521 | tyronejose | 2025-05-25 14:17:58 -0400 | chore: add prompt engineering pdf
+b7573cd | tyronejose | 2025-01-30 19:44:34 -0300 | chore: add books folder
+a533803 | Tyrone José | 2025-01-30 19:39:07 -0300 | Initial commit
